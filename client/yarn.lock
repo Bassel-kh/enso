@@ -1263,6 +1263,33 @@
     vue "^2.5.16"
     vuex "^3.1.0"
 
+"@enso-ui/forms@^2.2.2":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@enso-ui/forms/-/forms-2.3.1.tgz#859963869a5afd252c34ff4fd4e5971b506f745a"
+  integrity sha512-IFsQWDeDQuQYMGUL91s7EyDIAUvpT8ebclsSCeuy5XlRfV2YxygI4X0n2e8ZfSU9ioeLiAzNy50g2HrTbbIsUA==
+  dependencies:
+    "@enso-ui/datepicker" "^1.1"
+    "@enso-ui/directives" "^1.0"
+    "@enso-ui/divider" "^1.0"
+    "@enso-ui/laravel-validation" "^1.0"
+    "@enso-ui/modal" "^2.0"
+    "@enso-ui/money" "^1.0"
+    "@enso-ui/select" "^2.0"
+    "@enso-ui/switch" "^1.0"
+    "@enso-ui/tabs" "^1.0"
+    "@enso-ui/wysiwyg" "^1.0"
+    "@fortawesome/fontawesome-free" "^5.2.0"
+    "@fortawesome/fontawesome-svg-core" "^1.2.2"
+    "@fortawesome/free-solid-svg-icons" "^5.2.0"
+    "@fortawesome/vue-fontawesome" "^0.1.1"
+    accounting-js "^1.1.1"
+    bulma "^0.8.0"
+    dropzone "^5.5.1"
+    lodash "^4.17.10"
+    v-tooltip "^2.0.0-rc.33"
+    vue "^2.5.16"
+    vuex "^3.1.0"
+
 "@enso-ui/how-to@^2.0":
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/@enso-ui/how-to/-/how-to-2.0.3.tgz#e3dd7d479f1b2395467d9c7fe1ca426fd35d2bed"

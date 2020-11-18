@@ -19,7 +19,7 @@
         "@enso-ui/calendar": "^2.0",
         "@enso-ui/directives": "^1.0",
         "@enso-ui/filters": "^2.0",
-        "@enso-ui/forms": "^2.0",
+        "@enso-ui/forms": "^2.2.2",
         "@enso-ui/how-to": "^2.0",
         "@enso-ui/mixins": "^2.0",
         "@enso-ui/tables": "^2.0",
