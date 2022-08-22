@@ -25,7 +25,7 @@
         "@enso-ui/tables": "^2.0",
         "@enso-ui/themes": "^1.1",
         "@enso-ui/transitions": "^1.0",
-        "@enso-ui/tutorials": "^2.0",
+        "@enso-ui/tutorials": "^4.0.0",
         "@enso-ui/ui": "^3.0",
         "@fortawesome/fontawesome-free": "^5.2.0",
         "@fortawesome/fontawesome-svg-core": "^1.2.2",
